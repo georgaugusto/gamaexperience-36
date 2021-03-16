@@ -26,3 +26,6 @@ Durante o Gama Experience foi nos proposto um ultimo dessafio, a criação de um
 
 - ⚕️🏿 Cuida Melhor - [Repositório](https://github.com/CuidaMelhor/cuidamelhor), [Web](https://cuidamelhor.netlify.app/) e [Figma](https://www.figma.com/file/u9iz5JqRyV8BplhlhYOoKT/Cuida-Melhor?node-id=3%3A10)
 
+---
+
+Feito com 💜 &nbsp;por Georg Augusto Schlegel 👋 &nbsp;[Mande um Aló](https://www.linkedin.com/in/georgaugusto/)
